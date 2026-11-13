@@ -3,7 +3,7 @@
 Мой персональный сайт, размещённый на GitHub Pages.
 
 Ссылка
-https://ваш-логин.github.io
+https://Maksim2558.github.io
 
 Структура
 - `index.html` — главная страница
