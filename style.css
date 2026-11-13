@@ -1,0 +1,29 @@
+* { box-sizing: border-box; }
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1 { color: #2b6cb0; }
+a  { color: #2b6cb0; }
+
+header nav a {
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #777;
+}
+
+@media (max-width: 600px) {
+  body { padding: 20px 12px; }
+  h1   { font-size: 1.5em; }
+}
